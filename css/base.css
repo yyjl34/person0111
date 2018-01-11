@@ -1,0 +1,25 @@
+/*
+* @Author: Yuejiaqun
+* @Date:   2018-01-03 09:19:38
+* @Last Modified by:   Yuejiaqun
+* @Last Modified time: 2018-01-03 09:26:00
+*/
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 16px;
+  font-family: "微软雅黑","宋体",sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+body{
+	background: #fff;
+}
+
+img{
+	border: none;
+}
